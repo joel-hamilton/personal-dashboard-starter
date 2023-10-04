@@ -1,0 +1,9 @@
+body, html {
+  height: 100%;
+  overflow: auto;
+}
+
+.weather {
+  font-size: larger;
+  font-weight: bold;
+}
